@@ -3,7 +3,7 @@ Hi there 👋
 - 🌱 I’m currently learning software engineering at ALX.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with improving my skills as a full stack developer
-- 📫 How to reach me: Whatsapp: +212644700646 or mobile: +212644700646
+- 📫 How to reach me: email: imrane.achaari@gmail.com or mobile: +212644700646
 - ⚡ Fun fact: I have a collection of mugs. I get a new mug in every country I go to, so I currently have 0
 
 <!---
